@@ -6,3 +6,6 @@ Then you look for all occurrences in the text of those N consecutive words,
 randomly choose one, and add the N words that follow. Then you repeat this
 iteratively.
 
+The Jargon file entry provides a decent working definition:
+http://www.catb.org/jargon/html/D/Dissociated-Press.html
+
