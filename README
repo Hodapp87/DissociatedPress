@@ -1,0 +1,8 @@
+This is a Python implementation of the Dissociated Press algorithm, which
+generates text based on another text.
+The principle is fairly simple, at least if my interpretation is correct: You
+choose any N consecutive words from the reference body of text, and add those.
+Then you look for all occurrences in the text of those N consecutive words,
+randomly choose one, and add the N words that follow. Then you repeat this
+iteratively.
+
